@@ -1,0 +1,14 @@
+D:\SteamLibrary\steamapps\common\Immune-DUMP\Scripts\obj\Debug\net35\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\Immune-DUMP\Scripts\obj\Debug\net35\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SteamLibrary\steamapps\common\Immune-DUMP\Scripts\obj\Debug\net35\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\Immune-DUMP\Scripts\bin\Debug\net35\Assembly-CSharp.dll
+D:\SteamLibrary\steamapps\common\Immune-DUMP\Scripts\bin\Debug\net35\Assembly-CSharp.pdb
+D:\SteamLibrary\steamapps\common\Immune-DUMP\Scripts\bin\Debug\net35\Assembly-CSharp-firstpass.dll
+D:\SteamLibrary\steamapps\common\Immune-DUMP\Scripts\bin\Debug\net35\Lidgren.Network.dll
+D:\SteamLibrary\steamapps\common\Immune-DUMP\Scripts\bin\Debug\net35\Mono.Data.SqliteClient.dll
+D:\SteamLibrary\steamapps\common\Immune-DUMP\Scripts\bin\Debug\net35\UnityEngine.dll
+D:\SteamLibrary\steamapps\common\Immune-DUMP\Scripts\bin\Debug\net35\UnityEngine.UI.dll
+D:\SteamLibrary\steamapps\common\Immune-DUMP\Scripts\bin\Debug\net35\Mono.Security.dll
+D:\SteamLibrary\steamapps\common\Immune-DUMP\Scripts\obj\Debug\net35\Assembly-CSharp.csproj.CopyComplete
+D:\SteamLibrary\steamapps\common\Immune-DUMP\Scripts\obj\Debug\net35\Assembly-CSharp.dll
+D:\SteamLibrary\steamapps\common\Immune-DUMP\Scripts\obj\Debug\net35\Assembly-CSharp.pdb

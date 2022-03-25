@@ -1,0 +1,11 @@
+
+Client/bin/Debug/net35/Lidgren.Network.dll
+Client/bin/Debug/net35/Mono.Data.SqliteClient.dll
+Client/bin/Debug/net35/Mono.Security.dll
+Client/bin/Debug/net35/UnityEngine.dll
+Client/bin/Debug/net35/UnityEngine.UI.dll
+Server/bin/Debug/net35/Lidgren.Network.dll
+Server/bin/Debug/net35/Mono.Data.SqliteClient.dll
+Server/bin/Debug/net35/Mono.Security.dll
+Server/bin/Debug/net35/UnityEngine.dll
+Server/bin/Debug/net35/UnityEngine.UI.dll
