@@ -9,26 +9,31 @@
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup />
-  <ItemGroup />
   <ItemGroup>
-    <Reference Include="UnityEngine">
-      <HintPath>..\..\Immune\Immune_Data\Managed\UnityEngine.dll</HintPath>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>D:\SteamLibrary\steamapps\common\Immune\Immune_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-UnityScript">
+      <HintPath>D:\SteamLibrary\steamapps\common\Immune\Immune_Data\Managed\Assembly-UnityScript.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-UnityScript-firstpass">
+      <HintPath>D:\SteamLibrary\steamapps\common\Immune\Immune_Data\Managed\Assembly-UnityScript-firstpass.dll</HintPath>
     </Reference>
     <Reference Include="Lidgren.Network">
-      <HintPath>..\..\Immune\Immune_Data\Managed\Lidgren.Network.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\Immune\Immune_Data\Managed\Lidgren.Network.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Data.SqliteClient">
+      <HintPath>D:\SteamLibrary\steamapps\common\Immune\Immune_Data\Managed\Mono.Data.SqliteClient.dll</HintPath>
     </Reference>
     <Reference Include="System.Core">
       <HintPath>..\..\Immune\Immune_Data\Managed\System.Core.dll</HintPath>
     </Reference>
-    <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>..\..\Immune\Immune_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    <Reference Include="System.Data" />
+    <Reference Include="UnityEngine">
+      <HintPath>D:\SteamLibrary\steamapps\common\Immune\Immune_Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>..\..\Immune\Immune_Data\Managed\UnityEngine.UI.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\Immune\Immune_Data\Managed\UnityEngine.UI.dll</HintPath>
     </Reference>
-    <Reference Include="Mono.Data.SqliteClient">
-      <HintPath>..\..\Immune\Immune_Data\Managed\Mono.Data.SqliteClient.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Data" />
   </ItemGroup>
 </Project>

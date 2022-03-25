@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SteamLibrary\\steamapps\\common\\Immune-DUMP\\Scripts\\Assembly-CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\supfo\\OneDrive\\Documents\\GitHub\\Immune_True_Revival\\Client\\Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "D:\\SteamLibrary\\steamapps\\common\\Immune-DUMP\\Scripts\\Assembly-CSharp.csproj",
+      "projectPath": "C:\\Users\\supfo\\OneDrive\\Documents\\GitHub\\Immune_True_Revival\\Client\\Assembly-CSharp.csproj",
       "packagesPath": "C:\\Users\\supfo\\.nuget\\packages\\",
-      "outputPath": "D:\\SteamLibrary\\steamapps\\common\\Immune-DUMP\\Scripts\\obj\\",
+      "outputPath": "C:\\Users\\supfo\\OneDrive\\Documents\\GitHub\\Immune_True_Revival\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\supfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
